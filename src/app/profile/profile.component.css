@@ -1,0 +1,15 @@
+body {
+    background-color: #eee;
+    text-align: center;
+    
+    transform: translateX(450px);
+    transform: translateY(5px);
+}
+
+.edit {
+    background-color: #505355;
+    border-radius: 30px;
+    width: 300px;
+    color: white;
+    
+}
